@@ -2,5 +2,5 @@
 Weekly practice record of Deep Learning is listed as follows (step-by-step) :
 
 1st Week
-- [Preprocess (Keras with MNIST)](https://github.com/Mickey0521/Deep-Learning-Examples/blob/master/1st-Example/1_Keras_Mnist_Preprocess.ipynb)
-- [DNN (Keras with MNIST)](https://github.com/Mickey0521/Deep-Learning-Examples/blob/master/1st-Example/2_Keras_Mnist_Muti-Layer-Perceptron.ipynb)
+- [Preprocess (Keras with MNIST)](https://github.com/Mickey0521/Deep-Learning-Examples/blob/master/1st-Example/1_Keras_MNIST_Preprocess.ipynb)
+- [DNN (Keras with MNIST)](https://github.com/Mickey0521/Deep-Learning-Examples/blob/master/1st-Example/2_Keras_MNIST_DNN.ipynb)
