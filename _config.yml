@@ -1,0 +1,4 @@
+theme: jekyll-theme-cayman
+url: "https://mickey0521.github.io/Examples-of-Deep-Learning-Python/" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
