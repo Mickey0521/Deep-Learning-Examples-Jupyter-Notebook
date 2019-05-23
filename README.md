@@ -21,3 +21,12 @@ Example 6
 
 Example 7
 - [LSTM (Keras with IMDb)](https://github.com/Mickey0521/Deep-Learning-Examples-Jupyter-Notebook/blob/master/Keras_IMDb_LSTM.ipynb)
+
+Example 8
+- [Preprocess (Keras with Titanic)](https://github.com/Mickey0521/Deep-Learning-Examples-Jupyter-Notebook/blob/master/Keras_Titanic_Preprocess.ipynb)
+
+Example 9
+- [MLP (Keras with Titanic)](https://github.com/Mickey0521/Deep-Learning-Examples-Jupyter-Notebook/blob/master/Keras_Titanic_MLP.ipynb)
+
+Example 10
+- [Jack and Rose (Keras with Titanic)](https://github.com/Mickey0521/Deep-Learning-Examples-Jupyter-Notebook/blob/master/Keras_Titanic_Jack_and_Rose.ipynb)
